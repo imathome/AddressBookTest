@@ -1,0 +1,20 @@
+//
+//  AddressBookTest.pch
+//  AddressBookTest
+//
+//  Created by Samuel Colak on 09/01/15.
+//  Copyright (c) 2015 AppShopBoys BV. All rights reserved.
+//
+
+#ifndef AddressBookTest_AddressBookTest_pch
+#define AddressBookTest_AddressBookTest_pch
+
+    // Include any system framework and library headers here that should be included in all compilation units.
+    // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+    #import <AddressBookUI/AddressBookUI.h>
+
+    #import "UIView+Extensions.h"
+
+#endif
